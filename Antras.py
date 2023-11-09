@@ -1,0 +1,1 @@
+print("Dar vienas")
